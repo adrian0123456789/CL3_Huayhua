@@ -1,0 +1,7 @@
+spring:
+	datasourc:
+		url: jdbc:mysql://localhost:3306/CL3_HUAYHUA
+		username: root
+		password: mysql
+		driver-class-name: com.mysql.cj.jdbc.Driver
+
